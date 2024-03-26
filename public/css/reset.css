@@ -2,17 +2,6 @@
   #reset.css
 \*-----------------------------------*/
 
-/**
- * copyright 2023 codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #RESET
-\*-----------------------------------*/
 
 *,
 *::before,
@@ -38,6 +27,7 @@ a {
 img { height: auto; }
 
 input,
+
 button {
   background: none;
   border: none;
